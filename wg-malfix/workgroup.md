@@ -7,6 +7,13 @@ of the Bitcoin Cash blockcahin.
 
 * [Telegram Group](https://t.me/joinchat/t.me/AAAAAEfO6gRwk4wfdU7Mzg)
 
+# Officers
+
+ * Chairperson: 
+ * Meeting Reporter:
+ * Membership Coordinator: 
+
 # Interested Parties
 
 - Tomas, @tomasvdw, Bitcoin ABC
+- Geoffrey Vishloff, @wrstuv31, Project Coordinator
